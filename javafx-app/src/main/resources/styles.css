@@ -1,0 +1,8 @@
+.label {
+    -fx-text-fill: red;
+}
+
+.root {
+    -fx-background-color: #208ff8; /* Couleur de fond */
+    -fx-font-family: 'Arial';
+}
